@@ -1,0 +1,112 @@
+/* App.css */
+
+/*.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: rgba(0, 0, 0, 0.25);
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 25px;
+    transition: transform 0.3s ease-in-out;
+  }*/
+
+  .container {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 25px;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+  .mt-5 {
+    margin-top: 2.5rem;
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem;
+  }
+  
+  .mb-3 {
+    margin-bottom: 1rem;
+  }
+  
+  .d-grid {
+    display: grid;
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 600;
+    text-align: center;
+    text-transform: uppercase;
+    border: none;
+    border-radius: 0.25rem;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn-primary {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-color: forestgreen;
+  }
+
+  .btn-primary:hover {
+    color: #ffffff;
+    background-color: rgba(0, 0, 0, 1.0);
+    border-color: forestgreen;
+  }
+  
+  .border {
+    border: 1px solid #dee2e6;
+  }
+  
+  .rounded {
+    border-radius: 0.25rem;
+  }
+  
+  .p-3 {
+    padding: 1rem;
+  }
+  
+  .mb-3:last-child {
+    margin-bottom: 0;
+  }
+  
+  .text-end {
+    text-align: end;
+  }
+  
+  .small {
+    font-size: 0.875rem;
+  }
+  
+  .h4 {
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  
+  .p {
+    margin-bottom: 0;
+  }
+
+  .entry-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .entry-timestamp {
+    text-align: end;
+  }
+  
+  .signature {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 14px;
+    font-style: italic;
+    text-align: right;
+    margin-top: 10px;
+  }
+  
+  

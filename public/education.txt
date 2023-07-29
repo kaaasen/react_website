@@ -1,0 +1,29 @@
+<strong>University of Oslo (UiO)</strong><br>
+2014-2017 - Bachelor's degree, Informatics: Programming and Networks<br><br>
+
+Courses completed:
+<ul>
+  <li><strong>AST1010</strong> Astronomy - a Cosmic Journey</li>
+  <li><strong>INF1000</strong> An Introduction to Object-Oriented Programming</li>
+  <li><strong>INF1010</strong> Object-Oriented Programming</li>
+  <li><strong>INF1050</strong> Systems Development</li>
+  <li><strong>INF1060</strong> Introduction to Operating Systems and Data</li>
+  <li><strong>INF1080</strong> Logical methods for computer science</li>
+  <li><strong>INF1300</strong> Introduction to Databases</li>
+  <li><strong>INF1500</strong> Introduction to design, use, interaction</li>
+  <li><strong>INF1510</strong> Use-oriented design</li>
+  <li><strong>INF2220</strong> Algorithms and Data Structures</li>
+  <li><strong>INF2810</strong> Functional programming</li>
+  <li><strong>INF3100</strong> Database Systems</li>
+  <li><strong>INF3121</strong> Software Testing</li>
+  <li><strong>INF3280</strong> Development of IT-competence in Organisations</li>
+  <li><strong>INF3331</strong> Problem Solving with High-Level Languages</li>
+  <li><strong>INF3510</strong> Information Security</li>
+  <li><strong>MAT1001</strong> Mathematics 1</li>
+</ul>
+
+<strong>Honorable mention:</strong><br>
+
+<strong>University of South-Eastern Norway</strong> - 2004-2007 - Teacher<br>
+First year: 2004 -> 2005<br>
+Second year: 2006 -> 2007
